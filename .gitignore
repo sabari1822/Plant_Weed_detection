@@ -1,3 +1,5 @@
+.jupyter/
+.DS_Store
 weed_dataset/
 checkpoints/
 dataset_split/
