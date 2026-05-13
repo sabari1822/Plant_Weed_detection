@@ -1,0 +1,7 @@
+weed_dataset/
+checkpoints/
+dataset_split/
+.ipynb_checkpoints/
+__pycache__/
+*.h5
+*.ckpt
